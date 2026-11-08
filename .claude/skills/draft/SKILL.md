@@ -26,6 +26,7 @@ argument-hint: "[書名] [章號，例如 5] [稿數，預設 3]"
 
 - `cards/hidden/`：沒揭露的真相不能進 prompt。
 - `drafts/`：沒採用的劇情不算事實。
+- `notes/`：討論區，還沒定的想法不算事實。
 - `samples/`：除非作者要求加範文。
 
 照 [templates/prompt.md](templates/prompt.md) 寫到 `books/<書名>/drafts/chNNNN/prompt.md`。

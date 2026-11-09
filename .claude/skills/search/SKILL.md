@@ -29,7 +29,7 @@ argument-hint: "[書名] [問題]"
 | 來源 | 什麼時候查 | 回答時 |
 |---|---|---|
 | `chapters/` | 一律先查 | 這才算書中事實 |
-| `cards/characters/`、`cards/world/`、`outline/`、`beats/`、`摘要.md` | 作者問設定或計畫，或正文查不到時 | 標【計畫】，不能說成已經發生 |
+| `cards/characters/`、`cards/world/`、`outline/`、`scenes/`、`摘要.md` | 作者問設定或計畫，或正文查不到時 | 標【計畫】，不能說成已經發生 |
 | `cards/hidden/` | **只有作者明說要查水下** | 標【水下】 |
 | `notes/` | **只有作者問到討論過什麼** | 標【討論】，不能說成已經發生或已經決定 |
 | `drafts/` | 永遠不算 | 不查，不引用 |
